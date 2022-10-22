@@ -1,2 +1,3 @@
-# pixel-art-32
-Pixel art in a 32x32 grid magnified to be used as emoji. Non-comercial license by Creative Commons.
+# Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+Tiny pixel art by Ricardo Tavares
